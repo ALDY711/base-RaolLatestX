@@ -5,14 +5,14 @@ global.calender = d.toLocaleDateString('id');
 
 //================= { SETTINGS } =================\\
 global.prefa = ['', '!', '.', ',', '🐤', '🗿'];
-global.owner = '';
-global.email = 'latesturltech@gmail.com';
-global.ownNumb = '';
-global.NamaOwner = '';
+global.owner = 'ALDY';
+global.email = 'yhgeming3@gmail.com';
+global.ownNumb = '62881026633190';
+global.NamaOwner = 'ALDY';
 global.sessionName = 'session';
 global.namabot = 'RaolLatestX';
-global.author = '';
-global.packname = '';
+global.author = 'ALDY';
+global.packname = 'ALDY';
 global.yt = '';
 
 //================= { MASSAGE } =================\\
